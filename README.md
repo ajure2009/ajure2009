@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ajure2009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in FNF mods
+- 🌱 I’m currently learning to do everything
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me adriavilla@escolasimeorabasa.net
+-
 
 <!---
 ajure2009/ajure2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
